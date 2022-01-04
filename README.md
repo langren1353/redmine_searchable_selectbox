@@ -1,25 +1,28 @@
+# 支持拼音检索
+支持中文的拼音检索，不一定非得输入中文进行检索
+
 # Redmine searchable selectbox plugin
 
 This is a plugin for Redmine.
 This plugin changes Redmine's selectbox searchable.
 
-Replace Redmine selectbox with [Select2 4.0.12](https://select2.org/).
+Replace Redmine selectbox with [Select2 4.0.13](https://select2.org/).
 
 ## Install
 
 ```console
 $ cd /your/path/redmine
-$ git clone https://github.com/farend/redmine_searchable_selectbox.git plugins/redmine_searchable_selectbox
+$ git clone https://github.com/langren1353/redmine_searchable_selectbox.git plugins/redmine_searchable_selectbox
 $ # Restart redmine
 ```
 
 ## Demo
 
 * 1: Issues filter  
-<kbd><img src="https://github.com/farend/redmine_searchable_selectbox/blob/images/demo_filters.gif" /></kbd>
+<kbd><img src="https://github.com/langren1353/redmine_searchable_selectbox/blob/images/demo_filters.gif" /></kbd>
 
 * 2: New issue  
-<kbd><img src="https://github.com/farend/redmine_searchable_selectbox/blob/images/demo_new_issue.gif" /></kbd>
+<kbd><img src="https://github.com/langren1353/redmine_searchable_selectbox/blob/images/demo_new_issue.gif" /></kbd>
 
 ----
 
